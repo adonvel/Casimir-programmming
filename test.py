@@ -1,7 +1,7 @@
 print('Hello World!')
 
 def circ(r):
-	""" function to compute circumference """
+	""" this function is great """
 	return(333/106*2*r)
 
 def area(r):
